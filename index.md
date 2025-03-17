@@ -427,7 +427,7 @@ please preview your site before committing, and make sure to run
 <h2 id="setup">Setup</h2>
 
 <p>
-  To participate in this workshop, you will only need access to a functional laptop with an up-to-date web browser and active internet access (provided on site).
+  To participate in this workshop, you will only need access to a functional laptop with an up-to-date web browser and active internet access. Simply connect to the <code>public</code> or <code>ISTA-public</code> WiFi network (no credentials).
 </p>
 <p>
 The following software could be beneficials to actively work on the workshop material:
