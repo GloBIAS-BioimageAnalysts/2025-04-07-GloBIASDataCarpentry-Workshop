@@ -93,6 +93,11 @@ the pitch.
 This is the landing page for the <strong>GloBIAS - Data Carpentry</strong> event to update the Image Processing with Python curriculum into a go-to resource for beginner/intermediate learners of BioImage Analysis using Python. See more information on the <a href="https://www.globias.org/activities/update-the-data-carpentries-bioimage-analysis-with-python-curriculum">original announcement page</a>.
 </p>
 
+<h3>FAQs</h3>
+<p>
+<a href="{{site.url}}/2025-04-07-GloBIASDataCarpentry-Workshop/faq/index.html">Follow this link for the FAQs Page</a>
+</p>
+
 <h3>Who is who?</h3>
 <p>
 <strong><a href="https://carpentries.org">The Carpentries</a></strong> project comprises the <a
