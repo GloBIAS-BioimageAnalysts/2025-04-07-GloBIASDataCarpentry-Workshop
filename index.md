@@ -167,7 +167,7 @@ address.
   <a href="//maps.google.com/maps?q={{page.latitude}},{{page.longitude}}">Google Maps</a>.
 
   <br>
-  <strong>Workshop Venue:</strong> Buildling i24/Moonstone, Room I24.EG.030e/f (main entrance to the right)
+  <strong>Workshop Venue:</strong> Building i24/Moonstone, Room I24.EG.030e/f (main entrance to the right) (see map <a href="{{site.url}}/2025-04-07-GloBIASDataCarpentry-Workshop/faq/index.html">here</a>).
 
   {% if page.what3words %}
     What3Words location:
