@@ -79,6 +79,8 @@ displayed if the 'eventbrite' field in the header is not set.
 </script>
 {% endif %}
 
+<h2 id="poll">Before the workshop</h2>
+Please fill in this Poll to help us divide the participants into groups and organizing the workshop: <a href="https://docs.google.com/forms/d/e/1FAIpQLScDhkLlZ69qSlzZuwoDrWPPa-JZkvacN04swq8m-P_vzDjUhw/viewform?usp=dialog">Google Form link</a>
 
 <h2 id="general">General Information</h2>
 
@@ -432,6 +434,10 @@ please preview your site before committing, and make sure to run
 
 <p>
   To participate in this workshop, you will only need access to a functional laptop with an up-to-date web browser and active internet access. Simply connect to the <code>public</code> or <code>ISTA-public</code> WiFi network (no credentials).
+</p>
+
+<p>
+  Don't forget to fill in the pre-workshop poll <a href="{{site.url}}/2025-04-07-GloBIASDataCarpentry-Workshop/index.html#poll">here</a>.
 </p>
 <p>
 The following software could be beneficials to actively work on the workshop material:
