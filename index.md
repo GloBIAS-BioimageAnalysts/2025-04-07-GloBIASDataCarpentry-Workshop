@@ -280,6 +280,7 @@ Display the contact email address set in the configuration file.
   <ul>
     <li>General Info: <a href="https://pad.carpentries.org/2025-GloBIAS-DataCarpentry-Workshop">Etherpad</a> </li>
     <li>Hands-on collaborative document: <a href="https://codimd.carpentries.org/_XWgpty6Q06VpTmBUA4CWw">CodiMD</a> </li>
+    <li>Image-processing curriculum material repo copy on: <a href="https://github.com/GloBIAS-BioimageAnalysts/datacarpentry-image-processing">GitHub</a> </li>
   </ul>
 </p>
 
